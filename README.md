@@ -1,1 +1,0 @@
-This is a boilerplate project to start developing with hardhat, Chainlink VRF coordinator for random values and Chainlink Mock Aggregator for price feeds
